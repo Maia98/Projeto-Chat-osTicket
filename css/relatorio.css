@@ -1,0 +1,28 @@
+h1{
+    margin:0;
+    padding:0;
+    color: red;
+}
+
+.pdfHeader{
+    width:100%;
+    border-bottom: solid 1px #cecece;
+    padding-bottom: 20px;
+}
+
+.pdfHeader .logo{
+    width: 50%;
+    float: left;
+}
+
+.pdfHeader .title{
+    width: 50%;
+    font-size: 12pt;
+    text-align: right;
+    padding-top: 10px;
+}
+
+.pdfHeader .title span{
+    display:inline-block;
+    font-weight: bold;
+}
